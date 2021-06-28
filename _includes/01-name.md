@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+My name is Erin, and this needs to include a header.
